@@ -7,7 +7,7 @@ I'm Natalie -- a fullstack developer and CS student at Oberlin College. I'm inte
 ## Updates
 - 🔭 I’m currently working on a JavaScript application, **[rock paper scissors](https://github.com/nataliefraank/rockpaper)**
 - 🌱 I’m currently learning **JavaScript** and **NodeJS**.
-- 📫 How to reach me: 🌐 **[LinkedIn]([url](https://www.linkedin.com/in/nataliefraank/))** or **[nataliefraank@gmail.com](mailto:nataliefraank@gmail.com)**
+- 📫 How to reach me: 🌐 **[LinkedIn](https://www.linkedin.com/in/nataliefraank/)** or **[nataliefraank@gmail.com](mailto:nataliefraank@gmail.com)**
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can juggle four balls.
 
