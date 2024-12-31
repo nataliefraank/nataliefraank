@@ -1,10 +1,10 @@
 # Hi there 👋
 
-## About me
+## 📖 About Me
 **Background**</br>
 I'm Natalie -- a full stack developer and CS student at Oberlin College. I'm interested in game development and building projects to educate and encourage creativity and social good. I am always learning new things, but I find myself gravitating towards web and game development. 😀 
 
-## Updates
+## ⏰ Updates
 - 🔭 I’m currently working on a JavaScript application, **[rock paper scissors](https://github.com/nataliefraank/rockpaper)**
 - 🌱 I’m currently learning **JavaScript** and **NodeJS**.
 - 📫 How to reach me: 🌐 **[LinkedIn](https://www.linkedin.com/in/nataliefraank/)** or **[nataliefraank@gmail.com](mailto:nataliefraank@gmail.com)**
