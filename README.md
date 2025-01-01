@@ -5,7 +5,7 @@
 I'm Natalie (she/her), a full stack developer and CS student at Oberlin College. I'm interested in game development and building projects to educate and encourage creativity and social good. I am always learning new things, but I find myself gravitating towards web and game development. 😀 
 
 ## ⏰ Updates
-- 🔭 I’m currently working on a JavaScript application, **[rock paper scissors](https://github.com/nataliefraank/rockpaper)**
+- 🔭 I’m currently working on a JavaScript application, **[stone scroll blade](https://github.com/nataliefraank/stonescrollblade)**
 - 🌱 I’m currently learning **JavaScript** and **NodeJS**.
 - 📫 How to reach me: 🌐 **[LinkedIn](https://www.linkedin.com/in/nataliefraank/)** or **[nataliefraank@gmail.com](mailto:nataliefraank@gmail.com)**
 - 😄 Pronouns: she/her
