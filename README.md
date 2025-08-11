@@ -6,7 +6,7 @@ I'm Natalie (she/her), an intern at Amazon and CS student at Oberlin College. I'
 
 ## ⏰ Updates
 - 🔭 I’m currently working on a React application, **Bookmatch**
-- 🌱 I’m currently learning **NodeJS** and how to train **ML models******
+- 🌱 I’m currently learning **NodeJS** and how to efficiently train **ML models**
 - 📫 How to reach me: 🌐 **[LinkedIn](https://www.linkedin.com/in/nataliefraank/)** or **[nataliefraank@gmail.com](mailto:nataliefraank@gmail.com)**
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can juggle four balls.
