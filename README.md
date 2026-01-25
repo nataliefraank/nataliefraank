@@ -9,7 +9,6 @@ I'm Natalie (she/her), an intern at Amazon and CS student at Oberlin College. I'
 - 🌱 I’m currently learning **NodeJS** and how to efficiently train **ML models**
 - 📫 How to reach me: 🌐 **[LinkedIn](https://www.linkedin.com/in/nataliefraank/)** or **[nataliefraank@gmail.com](mailto:nataliefraank@gmail.com)**
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I can juggle four balls.
 
 ## 🔧 Skills 
 **Development**</br>
