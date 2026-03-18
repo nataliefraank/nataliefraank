@@ -2,7 +2,7 @@
 
 ## 📖 About Me
 **Background**</br>
-Prev intern at AWS. CS student at Oberlin College. Working on a research lab focused on human-centered security.Prev intern at AWS. CS student at Oberlin College. Working on a research lab focused on AI agent reliability and human-centered security.
+Prev intern at AWS. CS student at Oberlin College. Working on a research lab focused on human-centered security.
 
 ## Updates
 - Currently working on a React application, **Bookmatch**
