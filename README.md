@@ -1,17 +1,20 @@
 # Hi there 👋
 
-## 📖 About Me
-**Background**</br>
+## About Me
+### Background
 Prev intern at AWS. CS student at Oberlin College. Working on a research lab focused on human-centered security.
 
-## Updates
-- Currently working on a React application, **Bookmatch**
-- How to reach me: **[LinkedIn](https://www.linkedin.com/in/nataliefraank/)** or **[nataliefraank@gmail.com](mailto:nataliefraank@gmail.com)**
-- Pronouns: she/her
+Reach me on **[LinkedIn](https://www.linkedin.com/in/nataliefraank/)** or **[nataliefraank@gmail.com](mailto:nataliefraank@gmail.com)**
 
-## Skills 
-**Development**</br>
-[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,py,ruby,rust&theme=light)](https://skillicons.dev)
+### Technical experience
+Experience with Python, JavaScript/TypeScript, Rust, Java, React, Node.js, databases (PostgreSQL, MongoDB), AWS, RESTful APIs, containerization (Docker), and AI/ML integration.
+
+### Recent projects
+Check out [**classhole**](https://github.com/nataliefraank/classhole) to see some work with **ML/NLP libraries like PyTorch, TensorFlow, and Transformers**. My team developed a sentiment analysis pipeline for large-scale Reddit posts, utilizing modern Natural Language Processing (NLP) techniques and Transformer-based architectures (BERT) to classify user sentiment. ⚖️📊
+
+Check out [**bookmatch**](https://github.com/nataliefraank/bookmatch) to see some of my design-minded fullstack work with **React** and **TypeScript**. I developed an AI-powered book recommendation platform, featuring fast user onboarding and an intuitive interface, hooked up with a backend AI model to find recommendations. 📖📚
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,py,ruby,rust&theme=light)](https://skillicons.dev)
 
 **Design**</br>
 [![My Skills](https://skillicons.dev/icons?i=figma,flutter)](https://skillicons.dev)
@@ -29,4 +32,4 @@ Prev intern at AWS. CS student at Oberlin College. Working on a research lab foc
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 **Scripting & Miscellaneous**</br>
-[![My Skills](https://skillicons.dev/icons?i=bash,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,latex)](https://skillicons.dev) -->
