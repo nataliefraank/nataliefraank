@@ -2,7 +2,7 @@
 
 ## About Me
 ### Background
-Prev intern at AWS. CS student at Oberlin College. Working on a research lab focused on human-centered security.
+Software engineer at Topsort. Prev intern at AWS. Graduated Oberlin College with degree in Computer Science in May 2026.
 
 Reach me on **[LinkedIn](https://www.linkedin.com/in/nataliefraank/)** or **[nataliefraank@gmail.com](mailto:nataliefraank@gmail.com)**
 
